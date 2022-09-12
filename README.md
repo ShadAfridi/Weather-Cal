@@ -1,3 +1,7 @@
+*Added Crypto Tracker and F1 race tracker in the widget
+
+![WeatherCal](https://user-images.githubusercontent.com/65189662/189640257-96e676f7-651c-4dfc-b7e6-deb6f70fd72b.jpg)
+
 # Weather Cal
 
 <img src="https://github.com/mzeryck/Weather-Cal/blob/main/images/header.jpg" width="350" height="330" alt="Screenshot of a sample Weather Cal widget">
